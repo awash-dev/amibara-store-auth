@@ -1,0 +1,1 @@
+# amibara-store-auth
