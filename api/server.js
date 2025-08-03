@@ -3,7 +3,7 @@ const jwt = require("jsonwebtoken");
 const axios = require("axios");
 const crypto = require("crypto");
 const morgan = require("morgan");
-const pool = require("./db");
+const pool = require("./db/db");
 require("dotenv").config();
 
 const app = express();
